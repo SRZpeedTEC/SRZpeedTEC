@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Eladio Boza**
+# 👋 Holaa Soy **Santiago**
 
 > Estudiante de **Ingeniería en Computadores** en el **Tecnológico de Costa Rica (TEC)** — segundo año. Me apasiona aprender, construir soluciones y colaborar en el mundo.
 
