@@ -1,12 +1,12 @@
-# 👋 Holaa Soy **Santiago**
+# Holaa Soy **Santiago**
 
 > Estudiante de **Ingeniería en Computadores** en el **Tecnológico de Costa Rica (TEC)** — segundo año. Me apasiona aprender, construir soluciones y colaborar en el mundo.
 
 ---
 
-## 📌 Un poco sobre mí :)
+## Un poco sobre mí :)
 
-* 🎯 **Intereses:** Estructuras de datos, desarrollo de aplicaciones .NET/MAUI, sistemas distribuidos, inteligencia artificial y ciberseguridad.
+* 🎯 **Intereses:** Estructuras de datos, desarrollo de aplicaciones .NET/MAUI, sistemas embebidos, inteligencia artificial y ciberseguridad.
 * 💡 **Busco:** Oportunidades de práctica profesional, proyectos open‑source o retos que me permitan crecer.
 * 🌍 **Ubicación:** Cartago, Costa Rica 
 * 🗣️ **Idiomas:** Español (nativo) · Inglés B2 
@@ -39,19 +39,17 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-## 🚀 Mis Proyectos Destacados
+## Mis Proyectos Destacados
 
 
 
 ---
 
-## 📫 Mis contactos
+## Mis contactos
 
 * ✉️ **Email:** santiboza3008@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/santiago-boza-quirós-b06332371
